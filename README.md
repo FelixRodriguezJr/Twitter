@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://g.recordit.co/T6XxDm22jx.gif" width=250><br>
+<img src="[http://g.recordit.co/T6XxDm22jx.gif](http://g.recordit.co/T6XxDM22jx.gif)" width=250><br>
 
