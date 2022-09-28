@@ -23,7 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://g.recordit.co/T6XxDM22jx.gif" width=250><br>
+<img src="[http://g.recordit.co/T6XxDM22jx.gif](h![image](https://user-images.githubusercontent.com/79116375/192694661-faeeed30-2c07-405f-9a5d-9deff52f45a7.png)
+ttp://g.recordit.co/T6XxDM22jx.gif)" width=250><br>
 
 For some reason the video doesn't appear, but you can still see the link if you click raw and manually put it in the URL.
 http://g.recordit.co/T6XxDM22jx.gif <- the missing link.
