@@ -1,8 +1,8 @@
 # Project 3 - *Felix's Twitter*
-<img src="[http://g.recordit.co/T6XxDm22jx.gif](http://g.recordit.co/T6XxDM22jx.gif)" width=250><br>
-**Name of your app** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Felix's Twitter is a basic twitter app to read your tweets.
+
+Time spent: 5 hours spent in total
 
 ## User Stories
 
